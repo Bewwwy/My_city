@@ -1,0 +1,66 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0;
+    background-color: #fdfada;
+    font-family: sans-serif;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+img {
+    border: 0;
+}
+
+.tudo {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.lugares {
+    float: left;
+    width: 660px;
+}
+
+.lugar {
+    background-color: whitesmoke;
+    border-color: #CCC #999 #999 #CCC;
+    border: 1px solid #CCC;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.lugar h2 {
+    border-bottom: 1px dashed #751613;
+    margin: 0;
+}
+
+.lugar img {
+    border: 1px solid #751613;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+}
+
+.video {
+
+    background-color: whitesmoke;
+    border-color: #CCC #999 #999 #CCC;
+    border: 1px solid #CCC;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+
+.video h3 {
+    border-bottom: 1px dashed #751613;
+    margin: 0;
+}
+
+.hino {
+    text-align: center;
+}
